@@ -1,2 +1,2 @@
-# image_hover_project1
- This is my html and css project 
+# image_hover_project
+ This is my hovering image object
